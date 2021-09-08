@@ -1,0 +1,3 @@
+INSERT INTO contractors VALUES (1, 'ООО Яблоки и Груши', '1234567890', 'г. Иванов ул. Ивана Ивановича д. 123', 'AppleAndPear@hmail.ru', '+79876543210', null);
+INSERT INTO contractors VALUES (2, 'ИП Яблок Грушевский', '1234567899', 'г. Тюмень ул. Уличная д. 1', 'fake123@hmail.ru', '+73452543211', 'Постоянно задерживает поставки');
+INSERT INTO contractors VALUES (3, 'ПАО Крупная фруктовая сеть', '1122334455', 'г. Москва ул. Ленина д. 999', 'bigAllpe@hmail.ru', '+74951111111', null);

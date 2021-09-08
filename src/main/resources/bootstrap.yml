@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: FruitStorageService
+
+server:
+  port: 9090
